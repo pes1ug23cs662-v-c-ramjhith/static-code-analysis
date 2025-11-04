@@ -1,3 +1,7 @@
+Name: V C Ramjhith
+SRN: PES1UG23CS662
+SECTION: K
+SE LAB 5:
 Reflection Question and Answers:
 1. Which issues were the easiest to fix, and which were the hardest? Why?
 Answer:
